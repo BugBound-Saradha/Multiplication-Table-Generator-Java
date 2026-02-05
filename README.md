@@ -86,6 +86,3 @@ day5Package/
 
 ---
 
-
-
-Just say the word 😊
